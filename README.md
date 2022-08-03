@@ -1,7 +1,7 @@
 ✔️ **Mikael Ítalo Torres Nascimento**
 ---
-- 👀 Estou interessado em `Java, C#, HTML, CSS, JS, Appium, Selenium, testes automatizados`.
-- 📚 Atualmente estou aprendendo `Java, C#, Selenium IDE/RC/WebDriver/GRID, Appium, Cucumber, Page Objects, JUnit, NUnit, Mobile e Web, Testes automatizados com Docker, CI, CD`.
+- 👀 Estou interessado em `Java, C#, HTML, CSS, JS, Appium, Selenium, testes automatizados WEB e Mobile`.
+- 📚 Atualmente estou aprendendo `Java, C#, Selenium IDE/RC/WebDriver/GRID, Appium, Cucumber, Page Objects, JUnit, NUnit, Mobile e Web, execução de testes em containers com Selenium GRID e Docker, Jenkins(CI)`.
 - 🤝 Procuro colaborar na prática e desenvolvimento em áreas que possuo conhecimento citadas acimas.
 - 📫 Email: *mikael.italo.35@hotmail.com* 
 
