@@ -7,8 +7,9 @@
 
 **Talking about me:**
 
-- ✔️ Quality Assurance at Stefanini Group
+- ✔️ Quality Assurance at H.O.C - Hub of Creativity
 - 🎓 Sistemas de Informação pelo IFG (Incompleto)
+- 🎓 Análise e desenvolvimento de sistemas - Estácio (Cursando)
 - 🇧🇷 Morando no Brasil
 
 ---
@@ -17,7 +18,7 @@
 - Automação com Java e C#;
 - Automação Mobile, Web e API;
 - Selenium IDE/RC/WebDriver/GRID, Appium, Cucumber, SpecFlow, Page Objects, JUnit, NUnit, MSTest, Docker, DevOps, RestSharp, PostMan;
-- Behavior Driven Testing (BDT);
+- Behavior Driven Development (BDD);
 - Gherkin;
 - Conhecimento/Vivência em Kanban e metodologias Ágeis (Scrum).
 
