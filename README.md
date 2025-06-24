@@ -10,6 +10,7 @@
 - ✔️ Quality Assurance at H.O.C - Hub of Creativity
 - 🎓 Sistemas de Informação pelo IFG (Incompleto)
 - 🎓 Análise e desenvolvimento de sistemas - Estácio (Cursando)
+- 📋 CTFL - Certified Tester Foundation Level
 - 🇧🇷 Morando no Brasil
 
 ---
@@ -20,7 +21,9 @@
 - Selenium IDE/RC/WebDriver/GRID, Appium, Cucumber, SpecFlow, Page Objects, JUnit, NUnit, MSTest, Docker, DevOps, RestSharp, PostMan;
 - Behavior Driven Development (BDD);
 - Gherkin;
-- Conhecimento/Vivência em Kanban e metodologias Ágeis (Scrum).
+- Conhecimento/Vivência em Kanban e metodologias Ágeis (Scrum);
+- Aprendendo desenvolvimento API WEB com Net 8;
+- Aprendendo desenvolvimento aplicações console em C# (WorkerService);
 
 <p align="center">
   <a href="https://github.com/Mikael-Italo/Mikael-Italo">
